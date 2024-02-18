@@ -4,19 +4,19 @@ This git repo contains my dotfiles.
 
 ## Installation
 
-1. Ensure you have to following installed on your system
+Ensure you have to following installed on your system
 
 - git
 - stow
 
-2. Check out the dotfiles repo in your $HOME directory using git
+Check out the dotfiles repo in your $HOME directory using git
 
 ```
 $ git clone https://github.com/footsirk/dotfiles.git
 $ cd dotfiles
 ```
 
-3. Create symlinks using GNU stow
+Create symlinks using GNU stow
 
 ```
 $ stow .
