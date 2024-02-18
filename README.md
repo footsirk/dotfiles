@@ -4,8 +4,7 @@ This git repo contains my dotfiles.
 
 ## Installation
 
-Ensure you have to following installed on your system
-
+Dependencies
 - git
 - stow
 
